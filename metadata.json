@@ -1,0 +1,7 @@
+{
+  "name": "智股舆情 (Smart Stock Sentiment)",
+  "description": "聚合A股/港股实时热度、深度舆情归因及社交预测的金融辅助平台。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
